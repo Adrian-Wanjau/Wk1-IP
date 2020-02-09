@@ -1,8 +1,24 @@
 body{
-    background-color: darkgrey;
+    background-attachment: fixed;
+    background-image: url(https://www.standardmedia.co.ke/images/wednesday/qjono6qhkfspqbs5d789b058a5e7.jpg);
 }
 .heading{
     text-align: center;
     font-style: oblique;
     color: darkred;
+    font-size: 10mm;
+}
+h3{
+    color: darkturquoise;
+}
+img{
+    float: right;
+}
+h4{
+    color: forestgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+a {
+    color: gold;
 }
